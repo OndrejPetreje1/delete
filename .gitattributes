@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
+=======
+* text=auto
+
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+>>>>>>> 10774e628e87f8112cca9ae486047b538be25a4a
